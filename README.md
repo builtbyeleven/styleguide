@@ -1,11 +1,6 @@
-## How
+## Style Guide
 
-## Todo
-
-[] Change the theme sidebar
-
-[] Customize theme
-
+In order to make our code sustainable in the future, follow the guideline in this document. 
 
 ## Languages
 
