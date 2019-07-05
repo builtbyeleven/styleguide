@@ -44,7 +44,7 @@ Keep the controller to the default CRUD. Refactor the controller if it goes beyo
 
 ### View
 
-The folder name must be the same as the route name. 
+The folder name must be the same as the route name using kebab-case.
 
 ```php
 Route::get('style-guide', 'StyleGuideController@index')->name('style-guide.index');
