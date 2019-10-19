@@ -55,3 +55,17 @@ resources
   |- views
     |- style-guide/index.blade.php
 ```
+
+### Commands
+
+The file name should ends with Command. 
+
+```
+SendEmailCommand.php
+```
+
+The file command should use snake case. Use the `app` namespace first unless it needs to be forked out to another namespace. 
+
+```
+app:send-email
+```
